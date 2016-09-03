@@ -12,6 +12,4 @@ jquery.autosize.js - Plugin used for auto resizing of textareas<br />
 jquery.js - Main jQuery library<br />
 
 <h2>Credits</h2>
-<a href="http://vizify.com/prayash">Prayash Mohapatra</a></br>
-<a href="http://facebook.com/sthita.pm">Sthita P. Mohanty</a></br>
-<a href="http://twitter.com/nabaneeta">Ms. Nabaneeta Das</a>
+<a href="http://fb.com/soumyaa.acharya.1">Soumyaa Acharya</a></br>
