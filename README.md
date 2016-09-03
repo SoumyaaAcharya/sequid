@@ -1,6 +1,6 @@
 SequID
 ======
-sequID is a basic biological sequence identification and processing application that is user friendly for new people in the field. (http://prayashm.github.io/sequid/)
+sequID is a basic biological sequence identification and processing application that is user friendly for new people in the field. (http://soumyaaacharya.github.io/sequid/)
  
 <h2>Important source files</h2>
 script.js - Main js entrypoint for application script<br />
